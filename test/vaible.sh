@@ -3,4 +3,6 @@
 NAME=DEVOPS
 COUNT=2
 
-echo "nm =$NAME\t${count}no"
+echo "nm =$NAME\t${COUNT}COUNTno"
+
+echo "count of numbers "={COUNT}NO
