@@ -3,4 +3,4 @@
 NAME=DEVOPS
 COUNT=2
 
-echo nm =$NAME
+echo "nm =$NAME\t${count}no"
